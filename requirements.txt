@@ -1,0 +1,15 @@
+Flask
+nltk
+numpy
+pandas
+gunicorn
+scikit-learn
+xgboost
+ibmlearn
+collections
+string
+wordcloud
+pickle
+email
+operator
+model
